@@ -29,5 +29,5 @@ int main() {
   ptr3= &car3;
 displayCarColor(ptr1->year);
 displayCarColor(ptr2->year);
-displayCarColor(ptr3->year);
+displayCarColor(ptr3->year); 
 }
